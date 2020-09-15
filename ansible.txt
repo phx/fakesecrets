@@ -1,2 +1,1 @@
 ANSIBLE_VAULT_PASSWORD=dfewat4agraggafgggasgsgdgasasf
-mysql://admin:admin@something.com:3306/db_name\n
